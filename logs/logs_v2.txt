@@ -1,27 +1,52 @@
-[2025-03-23T18:10:37.566Z] 🔍 Finding rate limit for version: v2
-[2025-03-23T18:10:37.566Z] 🔍 Finding rate limit...
-[2025-03-23T18:10:37.588Z] 🚀 Sending 125 requests...
-[2025-03-23T18:10:37.866Z] ❌ Rate limit exceeded at 125 requests.
-[2025-03-23T18:10:37.866Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:11:37.888Z] 🚀 Sending 62 requests...
-[2025-03-23T18:11:38.061Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:11:38.061Z] ❌ Rate limit exceeded at 62 requests.
-[2025-03-23T18:12:38.068Z] 🚀 Sending 31 requests...
-[2025-03-23T18:12:38.200Z] ✅ 31 requests passed, increasing target.
-[2025-03-23T18:12:38.200Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:13:38.221Z] 🚀 Sending 46 requests...
-[2025-03-23T18:13:38.361Z] ✅ 46 requests passed, increasing target.
-[2025-03-23T18:13:38.361Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:14:38.376Z] 🚀 Sending 54 requests...
-[2025-03-23T18:14:38.535Z] ❌ Rate limit exceeded at 54 requests.
-[2025-03-23T18:14:38.535Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:15:38.552Z] 🚀 Sending 50 requests...
-[2025-03-23T18:15:38.759Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:15:38.759Z] ✅ 50 requests passed, increasing target.
-[2025-03-23T18:16:38.782Z] 🚀 Sending 52 requests...
-[2025-03-23T18:16:38.949Z] ❌ Rate limit exceeded at 52 requests.
-[2025-03-23T18:16:38.949Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:17:38.972Z] 🚀 Sending 51 requests...
-[2025-03-23T18:17:39.136Z] ⏳ Waiting 60s before next batch...
-[2025-03-23T18:17:39.136Z] ❌ Rate limit exceeded at 51 requests.
-[2025-03-23T18:18:39.138Z] 🎯 Final rate limit for version v2: 50 requests/min
+[2025-03-24T05:50:26.128Z] 🎉 Partial extraction complete. Current unique names: 525
+[2025-03-24T05:52:06.356Z] 🎉 Partial extraction complete. Current unique names: 525
+[2025-03-24T05:53:04.860Z] 🚦 Too many requests. retrying after 60 seconds...
+[2025-03-24T05:54:05.520Z] 🎉 Partial extraction complete. Current unique names: 611
+[2025-03-24T05:55:06.175Z] 🎉 Partial extraction complete. Current unique names: 884
+[2025-03-24T05:55:59.507Z] 🚦 Too many requests. retrying after 60 seconds...
+[2025-03-24T05:57:00.170Z] 🎉 Partial extraction complete. Current unique names: 611
+[2025-03-24T05:58:00.834Z] 🎉 Partial extraction complete. Current unique names: 884
+[2025-03-24T05:59:01.485Z] 🎉 Partial extraction complete. Current unique names: 1194
+[2025-03-24T06:00:02.137Z] 🎉 Partial extraction complete. Current unique names: 1457
+[2025-03-24T06:01:02.791Z] 🎉 Partial extraction complete. Current unique names: 1737
+[2025-03-24T06:02:03.443Z] 🎉 Partial extraction complete. Current unique names: 2044
+[2025-03-24T06:16:21.430Z] 🎉 Partial extraction complete. Current unique names: 2312
+[2025-03-24T06:22:31.480Z] 🎉 Partial extraction complete. Current unique names: 2565
+[2025-03-24T06:30:13.300Z] 🎉 Partial extraction complete. Current unique names: 2856
+[2025-03-24T06:31:14.164Z] 🎉 Partial extraction complete. Current unique names: 3142
+[2025-03-24T06:32:14.849Z] 🎉 Partial extraction complete. Current unique names: 3420
+[2025-03-24T06:42:38.017Z] 🎉 Partial extraction complete. Current unique names: 3694
+[2025-03-24T06:43:38.675Z] 🎉 Partial extraction complete. Current unique names: 3977
+[2025-03-24T06:44:39.312Z] 🎉 Partial extraction complete. Current unique names: 4272
+[2025-03-24T06:45:39.979Z] 🎉 Partial extraction complete. Current unique names: 4557
+[2025-03-24T06:46:40.860Z] 🎉 Partial extraction complete. Current unique names: 4851
+[2025-03-24T06:47:52.396Z] 🎉 Partial extraction complete. Current unique names: 5174
+[2025-03-24T07:02:57.785Z] 🎉 Partial extraction complete. Current unique names: 5479
+[2025-03-24T07:28:39.969Z] 🎉 Partial extraction complete. Current unique names: 5756
+[2025-03-24T07:29:40.620Z] 🎉 Partial extraction complete. Current unique names: 6048
+[2025-03-24T07:30:41.268Z] 🎉 Partial extraction complete. Current unique names: 6363
+[2025-03-24T07:31:48.160Z] 🎉 Partial extraction complete. Current unique names: 6653
+[2025-03-24T07:35:19.263Z] 🎉 Partial extraction complete. Current unique names: 6935
+[2025-03-24T07:36:19.953Z] 🎉 Partial extraction complete. Current unique names: 7213
+[2025-03-24T07:37:20.640Z] 🎉 Partial extraction complete. Current unique names: 7507
+[2025-03-24T07:50:19.161Z] 🎉 Partial extraction complete. Current unique names: 7744
+[2025-03-24T08:20:31.320Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:21:31.997Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:22:32.635Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:23:33.321Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:24:33.954Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:33:46.758Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:40:42.743Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:41:43.393Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:42:44.117Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:43:44.772Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T08:44:45.517Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T09:28:15.961Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T09:39:30.156Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T09:42:45.949Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T10:21:31.946Z] 🎉 Partial extraction complete. Current unique names: 7873
+[2025-03-24T11:58:29.008Z] 🔍 Finding rate limit...
+[2025-03-24T11:58:29.008Z] 🔍 Finding rate limit for version: v2
+[2025-03-24T11:58:29.036Z] 🚀 Sending 125 requests...
+[2025-03-24T11:58:29.666Z] ❌ Rate limit exceeded at 125 requests.
+[2025-03-24T11:58:29.667Z] ⏳ Waiting 60s before next batch...
